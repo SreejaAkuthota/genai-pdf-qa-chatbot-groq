@@ -112,5 +112,4 @@ python app.py
 
 ---
 
-## 📄 License
-Choose the license that fits your needs (e.g., MIT).
+
